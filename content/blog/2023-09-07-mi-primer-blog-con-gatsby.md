@@ -3,7 +3,7 @@ layout: blog
 title: Mi Primer Blog con Gatsby
 date: '2023-09-07T22:36:52-05:00'
 thumbnail: /assets/images/gatsby-icon.png
-rating: '4'
+rating: '5'
 ---
 #  Creando un Blog Impresionante con Gatsby: Guía Paso a Paso
 
