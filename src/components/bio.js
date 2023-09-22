@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
           Hecho por <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://github.com/Mike2020x || ``}`}>
+          <a href={`https://github.com/Mike2020x`}>
             Mi perfil de github
           </a>
         </p>
