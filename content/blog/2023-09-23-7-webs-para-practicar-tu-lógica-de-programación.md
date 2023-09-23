@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: ' 7 WEBS para practicar tu LÓGICA de PROGRAMACIÓN'
+title: ' 7 webs para practicar tu logica de programación '
 date: '2023-09-23T12:56:35-05:00'
 thumbnail: /assets/images/images.jpeg
 rating: '5'
